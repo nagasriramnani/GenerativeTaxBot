@@ -1,0 +1,19 @@
+You’ll still be responsible for keeping these records if you outsource self-billing to a third party provider.
+
+If you do not keep the required records, then the self-billed invoices you issue will not be proper VAT invoices.
+
+Self-billing invoices
+
+Once you’ve got a self-billing agreement with a supplier, you must issue self-billed invoices for all the transactions with them during the period of the agreement.
+
+As well as all the details that must go on a full VAT invoice you’ll also need to include your supplier’s:
+
+name
+
+address
+
+VAT registration number
+
+All self-billed invoices must include the statement ‘The VAT shown is your output tax due to HMRC’.
+
+Remember that you do not add any VAT to self-billed invoices that you issue to suppliers who are not VAT registered.

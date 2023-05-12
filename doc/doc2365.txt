@@ -1,0 +1,15 @@
+£150
+
+The £300 travel cost that the consultant recharges to the client is not a disbursement so the consultant must charge VAT on it. But the cost of the website hosting package is a disbursement and can be excluded from the VAT calculation, because:
+
+it was purchased for the use of the client
+
+the client agreed that the consultant would arrange and pay for it on their behalf - this means the consultant agreed to act as the client’s agent
+
+the consultant passed the whole £150 charge on to the client, without adding anything, as a separate item on the invoice
+
+it was the client’s responsibility to pay for the goods
+
+the consultant had permission from his client to make the payment
+
+the client knew the web hosting package was from another supplier and not from the consultant

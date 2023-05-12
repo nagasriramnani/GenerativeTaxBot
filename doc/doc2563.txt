@@ -1,0 +1,9 @@
+You have to register within 30 days of the end of the month when you went over the threshold. Your effective date of registration is the first day of the second month after you go over the threshold.
+
+Example
+
+Between 10 July 2019 and 9 July 2020 your VAT taxable turnover is £100,000. That’s the first time it has gone over the VAT threshold. You must register by 30 August 2020. Your effective date of registration is 1 September 2020.
+
+If you’re going to exceed the threshold in the next 30 days
+
+You must register if you realise that your annual total VAT taxable turnover is going to go over the £85,000 threshold in the next 30 days.

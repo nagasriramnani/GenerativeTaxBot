@@ -1,0 +1,11 @@
+Exempt items are different from zero-rated supplies. In both cases VAT is not added to the selling price, but zero-rated goods or services are taxable for VAT — at 0%.
+
+Exempt business
+
+If you only sell or otherwise supply goods or services that are exempt from VAT then yours is an exempt business and:
+
+you cannot register for VAT
+
+you cannot recover any VAT you incur on your purchases or expenses
+
+This is in contrast to where you sell or otherwise supply zero-rated goods or services. Here you can reclaim the VAT on any purchases that relate to those sales.

@@ -1,0 +1,5 @@
+tell your customer at once if you change your VAT registration number, cancel your VAT registration, or transfer your business as a going concern
+
+Accounting for the output tax
+
+The VAT figure on the self-billed invoice your customer sends you is your output tax. When you have to account for this to HMRC depends on the date of supply of the goods or services for VAT purposes. This date of supply is normally the date when you actually provide the goods or services to your customer, so you might have to account for the VAT before you’ve received the self-billed invoice or been paid.

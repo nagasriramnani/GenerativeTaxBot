@@ -1,0 +1,12 @@
+Unilateral Relief
+
+HMRC gives credit against Inheritance Tax for the tax charged by another country on assets sited in that country. For this purpose, UK law determines the location of the asset. If the tax that is charged on the asset by the other country exceeds Inheritance Tax on that asset, they limit the credit to the amount of Inheritance Tax.
+
+They also give credit where both the UK and another country impose tax on assets that are sited:
+
+in a third country
+
+both in the UK under UK law and in the other country under that country’s law
+
+In these cases the credit is a proportion of the tax. The proportionate credit is computed by the formula:
+A ÷ (A + B) x C

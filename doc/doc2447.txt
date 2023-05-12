@@ -1,0 +1,9 @@
+The tax point will be either the date you issue a VAT invoice for the advance payment, or the date you receive the advance payment, whichever happens first.
+
+You include the VAT due on the advance payment on your VAT Return for the period when the tax point occurs.
+
+If the customer pays you the remaining balance before the goods are delivered or the services are performed, a further tax point is created. This will be either when you issue a VAT invoice for the balance, or when you receive payment of the balance, whichever happens first.
+
+You then include the VAT due on the balance on the return for when the further tax point occurs.
+
+Returnable deposits

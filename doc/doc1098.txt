@@ -1,0 +1,17 @@
+Standard annual earnings period method
+
+This method is common for directors who are paid irregularly.
+
+Each time you pay a director, work out their National Insurance for their total pay over the tax year so far, including bonuses.
+
+To work out what contributions they now owe, take off the total employee National Insurance they’ve paid so far this year.
+
+Alternative method
+
+This method is common for directors who are paid regularly.
+
+Each time you pay a director, work out their National Insurance only on their pay for that period, including bonuses.
+
+At the end of the tax year, use payroll software to work out whether more employee National Insurance is due and deduct it from their last payment.
+
+What to report to HMRC

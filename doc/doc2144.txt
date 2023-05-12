@@ -1,0 +1,7 @@
+If you decide to do this then you should declare VAT at the old rate on the value of the goods supplied or services performed before the change in rate, and at the new rate after the rate changed. If doing this reduces the amount of VAT due then you must issue a credit note to your customer.
+
+Credit and conditional sales
+
+A ‘credit sale’ means the sale of goods which immediately become the property of your customer but where the price is paid to you in instalments.
+
+A ‘conditional sale’ is where you supply goods to a customer but the goods remain your property until they’re paid for.

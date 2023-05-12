@@ -1,0 +1,29 @@
+How long it takes
+
+Payments by Faster Payments (online or telephone banking) usually reach HM Revenue and Customs (HMRC) on the same or next day, including weekends and bank holidays.
+
+CHAPS payments usually reach HMRC the same working day if you pay within your bank’s processing times.
+
+Bacs payments usually take 3 working days.
+
+Check your bank’s transaction limits and processing times before making a payment.
+
+Overseas payments
+
+If you’re paying from abroad, the account you pay into depends on whether you’re using a UK or non-UK account.
+
+UK
+
+20 20 48
+
+30944793
+
+Non-UK
+
+GB49BARC20204830944793
+
+BARCGB22
+
+For either account, pay to account name ‘HMRC NIC receipts’.
+
+Reference number

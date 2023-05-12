@@ -1,0 +1,31 @@
+the item’s unique stock book number
+
+invoice number
+
+item description
+
+total price - you must not show VAT separately
+
+any of the following: ‘margin scheme - second hand goods’, ‘margin scheme - works of art’ or ‘margin scheme - collectors’ items and antiques’
+
+There are special rules for using the margin scheme for imports and exports outside the UK. Find out more about the rules.
+
+Previous
+            :
+            Eligibility
+
+Next
+            :
+            VAT return
+
+View a printable version of the whole guide
+
+Related content
+
+VAT retail schemes
+
+VAT Flat Rate Scheme
+
+Explore the topic
+
+VAT

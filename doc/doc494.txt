@@ -1,0 +1,11 @@
+If you import a vehicle into Great Britain from anywhere, or into Northern Ireland from outside the EU
+
+You need to make an import declaration. This is done using the Customs Handling of Import and Export Freight (CHIEF) system or the Customs Declaration Service (CDS) system. You can arrange for an agent such as a freight forwarder to do this for you.
+
+You can get advice on getting your vehicle cleared by the National Clearance Hub.
+
+How you tell HMRC depends on whether you’re VAT-registered.
+
+If you’re a VAT-registered company
+
+You must tell HMRC about the imported vehicle by using the Notification of Vehicle Arrivals (NOVA) service within 14 days. You can use a spreadsheet if you need to use NOVA for lots of vehicles.

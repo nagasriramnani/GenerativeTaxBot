@@ -1,0 +1,17 @@
+Work out the available residence nil rate band
+
+Use the RNRB calculator to work out how much residence nil rate band the estate may be entitled to. The calculator will partly complete form IHT435 for you.
+
+The amount will be the lower of the:
+
+value of the home, or share inherited by the direct descendants
+
+maximum residence nil rate band available when the person died
+
+The amount the estate is entitled to is reduced or tapered away for estates worth more than £2 million by £1 for every £2 over £2 million.
+
+How to use the residence nil rate band
+
+You subtract the allowance from the value of the whole estate, not just the value of the home.
+
+The residence nil rate band includes any unused residence nil rate band transferred from a husband, wife or civil partner.

@@ -1,0 +1,23 @@
+Read section 8 of the guidance to VAT rules and procedures to find out how ‘apportionment’ works.
+
+Link-save offers
+
+Link-save offers are where the customer gets a discounted (or free) second item with their purchase, for example ‘buy one, get one free’.
+
+Use ‘apportionment’ to work out the VAT, unless the free or discounted item:
+
+has a resale value of less than £1
+
+has a sale value of less than £5
+
+costs you less than 20% of the total of the other items in the offer
+
+is not sold at a separate price from the main product
+
+If any of the above apply, charge VAT on the combined value of items.
+
+Charging VAT on coupons or vouchers
+
+Do not charge VAT on either of the following:
+
+a money-off coupon or voucher you give away free with another item at the time of purchase

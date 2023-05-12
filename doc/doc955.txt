@@ -1,0 +1,41 @@
+Pay your VAT bill
+
+Skip to contents of guide
+
+Contents
+
+Overview
+
+Direct Debit
+
+Approve a payment through your online bank account
+
+Pay HMRC by bank transfer
+
+Pay online by debit or corporate credit card
+
+At your bank or building society
+
+Standing order
+
+Pay HMRC by bank transfer
+
+You can pay HM Revenue and Customs (HMRC) directly from a UK bank account with Faster Payments, CHAPS or Bacs.
+
+Contact your bank or use your online bank account or banking app to make the payment.
+
+Use the following bank details for HMRC:
+
+Sort code - 08 32 00
+
+Account number - 11963155
+
+Account name - HMRC VAT
+
+Overseas payments
+
+To pay from an overseas bank account, use the following bank details for HMRC:
+
+Account number (IBAN) - GB36BARC20051773152391
+
+Bank identifier code (BIC) - BARCGB22

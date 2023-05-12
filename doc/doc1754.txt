@@ -1,0 +1,13 @@
+Reviewing self-billing agreements
+
+Self-billing agreements usually last for 12 months. At the end of this you’ll need to review the agreement to make sure you can prove to HMRC that your supplier agrees to accept the self-billing invoices you issue on their behalf. It’s very important that you do not self-bill a supplier when you do not have their written agreement to do so.
+
+You will not normally need to review an agreement if you provide self-billed invoices to a supplier for less than 12 months.
+
+Record keeping
+
+If you are a self-biller you’ll need to keep certain records. These are:
+
+copies of the agreements you make with your suppliers
+
+the names, addresses and VAT registration numbers of the suppliers who have agreed that you can self-bill them

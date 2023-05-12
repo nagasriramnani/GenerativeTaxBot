@@ -1,0 +1,11 @@
+If the customer pays you the remaining balance before the goods are delivered or the services are performed, a further tax point is created. This will be either when you issue a VAT invoice for the balance, or when you receive payment of the balance, whichever happens first.
+
+You then include the VAT due on the balance on the return for when the further tax point occurs.
+
+Returnable deposits
+
+You may ask your customers to pay a deposit when they hire goods from you. You do not have to account for VAT if the deposit is either:
+
+refunded in full to the customer when they return the goods safely
+
+kept by you to compensate you for loss or damage

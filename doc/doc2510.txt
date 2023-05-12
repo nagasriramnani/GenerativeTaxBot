@@ -1,0 +1,13 @@
+In other cases the benefit of a relief on an estate may be lost because other exemptions apply. For example, if a farm is left to a charity the benefit of agricultural relief will be lost because the charity is exempt from Inheritance Tax.
+
+In such cases, HMRC might need to apply the rules of interaction to give a fairer Inheritance Tax bill.
+
+The interaction rules
+
+Apply interaction rules if the estate qualifies for Agricultural or Business Relief and the will also has:
+
+at least one specific gift of property
+
+property subject to tax relief that’s not specifically given as a gift
+
+some of the estate is exempt from inheritance tax

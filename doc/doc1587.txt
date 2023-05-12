@@ -1,0 +1,16 @@
+If you then move the goods to Northern Ireland you will be charged VAT of £2,000. The partial exemption calculation at that time only permits £900 to be recovered.
+
+This would mean you have paid £4,000 VAT and only claimed £1,900 as input tax.
+
+To remedy this, you should treat the movement as if it were a fully taxable supply. This will allow you to recover the originally restricted input tax as being fully attributable to that taxable supply.
+
+You can do this as part of your annual adjustment. The VAT may be reclaimed subject to the normal rules.
+
+
+    Published 1 July 2014
+    
+
++ show all updates
+
+18 May 2022
+              Information has been added about what to do if you make supplies that are exempt from VAT when moving goods from Great Britain to Northern Ireland.

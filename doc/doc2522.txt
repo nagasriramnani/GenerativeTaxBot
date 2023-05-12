@@ -1,0 +1,32 @@
+VAT retail schemes
+
+Skip to contents of guide
+
+Contents
+
+How VAT retail schemes work
+
+Point of Sale Scheme
+
+Apportionment Scheme
+
+Direct Calculation Scheme
+
+Point of Sale Scheme
+
+Who can use it
+
+You can use this scheme if you can identify the VAT rate for goods sold at the time of sale, eg you have an electronic till that does this for you.
+
+How to calculate your VAT
+
+Add up all the sales for each VAT rate for the VAT return period.
+
+For 20% rated goods, divide the sales by 6. For 5% rated goods, divide the sales by 21.
+
+Example:
+
+You’ve sold £24,000 worth of 20% rated goods and £105 worth of 5% rated goods.
+
+£24,000 / 6 = £4,000 
+£105 / 21 = £5

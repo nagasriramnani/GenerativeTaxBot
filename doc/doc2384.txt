@@ -1,0 +1,21 @@
+Fill in a VAL231 form to get an EMI valuation.
+
+You’ll need to propose the unrestricted market value and actual market value for any shares under options that carry restrictions which affect their market value.
+
+How long EMI valuations are valid for
+
+Valuations for EMIs are valid for 90 days from the date of the agreement.
+
+Agree a SIP valuation
+
+Fill in a VAL230 form to get a SIP valuation.
+
+Information you’ll need to give includes:
+
+background information to support your proposal
+
+your proposed value for the shares
+
+How long SIPs valuations are valid for
+
+SIP valuations can last up to 6 months but will end early if a significant event happens which is likely to impact the share value. You must re-apply to have your shares valued after a significant event.

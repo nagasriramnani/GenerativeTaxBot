@@ -1,0 +1,23 @@
+In addition, your records must show:
+
+the name and address of the customer
+
+invoice date and number
+
+description, quantity and value of goods
+
+name and address of EU processor
+
+date by which goods must be exported
+
+proof of export and date of actual export
+
+If goods have to be processed in the EU after leaving you but before they’re finally exported, the time limit is 6 months.
+
+You can ask your freight forwarder, shipping company, airline or other agent to handle the paperwork. There’s more about appointing an export agent in VAT Notice 703.
+
+Speeding up and simplifying the export process
+
+The National Export System (NES) allows you to send export documentation to HMRC electronically. This makes exporting your goods quicker and easier.
+
+Getting a customs identification number

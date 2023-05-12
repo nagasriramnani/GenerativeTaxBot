@@ -1,0 +1,5 @@
+The value of an estate, tax thresholds and tax rates can change over time and can make the final amount of a gift uncertain. As a result you can choose to leave someone a specific amount ‘tax free’ instead, meaning the estate pays the tax.
+
+Some of the estate may be exempt from Inheritance Tax after you’ve taken off specific amounts (the ‘residue’). This could be because it’s left to a charity. In these cases, HMRC applies a calculation called grossing up when assessing the taxable value of the estate. The exact grossing up calculation will depend on whether the rate of Inheritance Tax applied to the estate is 40% or the reduced 36%.
+
+The grossing up calculator

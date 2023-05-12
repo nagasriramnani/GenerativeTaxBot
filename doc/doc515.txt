@@ -1,0 +1,21 @@
+show the VAT information on your invoice - invoices must include your VAT number and display the VAT separately
+
+show the transaction in your VAT account - a summary of your VAT
+
+record the amount on your VAT return
+
+VAT rates
+
+There are 3 rates of VAT.
+
+Standard rate
+
+Most goods and services are standard rate. Charge this rate unless the goods or services are classed as reduced or zero-rated.
+
+This includes any goods below the distance selling threshold you supply from Northern Ireland to non VAT-registered EU customers. If you go over the threshold, you’ll have to register for VAT in that country.
+
+Reduced rate
+
+When you can charge this rate depends on the item and the circumstances of the sale, for example:
+
+child car seats and domestic fuel or power are charged at 5%

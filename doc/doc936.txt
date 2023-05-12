@@ -1,0 +1,31 @@
+Reference number
+
+Use your National Insurance number followed by ‘IC’, your surname then your initial. If your bank limits you to a certain amount of characters, you should use your National Insurance number followed by ‘IC’ and as much of your surname as possible.
+
+Example
+
+If your name is Anne Jones, you’d write the reference as QQ123456AICJONESA
+
+If you’re an employer paying for an employee living abroad, you should use your 13-character employer number.
+
+Banking address
+
+HMRC’s banking address is:
+
+Barclays Bank PLC 
+1 Churchill Place 
+London 
+United Kingdom 
+E14 5HP
+
+Previous
+            :
+            Approve a payment through your online bank account
+
+Next
+            :
+            At your bank or building society
+
+View a printable version of the whole guide
+
+Related content

@@ -1,0 +1,19 @@
+total amount credited, excluding VAT
+
+number and date of the original VAT invoice
+
+Errors
+
+If you’ve made an error in your VAT return the VAT account must show:
+
+the date you discovered the error
+
+details about the error - for example how it happened and how you corrected it
+
+You might also need to report the error to HMRC.
+
+Bad debts
+
+If a customer does not pay what they owe for goods or services, you can write off the invoice as a ‘bad debt’. You may be able to claim relief from VAT for bad debts. Do this in your VAT Return.
+
+If you write off an invoice as a bad debt, you must keep a separate ‘VAT bad debt account’. The debt must be older than 6 months when you make your claim.

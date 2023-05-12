@@ -1,0 +1,15 @@
+The percentage of transferred residence nil rate band is limited to 100%. This means that if an individual has had more than one spouse or civil partner and they make a claim to transfer the unused residence nil rate band from each one, the total transferred residence nil rate band cannot be more than 100% of the maximum available amount.
+
+Calculate the residence nil rate band for the estate of someone who has died.
+
+
+    Published 8 November 2016
+    
+
++ show all updates
+
+5 September 2019
+              The additional threshold has been renamed residence nil rate band (RNRB).
+
+10 April 2018
+              A link to the Calculate the additional threshold for the estate of someone who has died has been added to the page.

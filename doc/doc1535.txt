@@ -1,0 +1,49 @@
+VAT margin schemes
+
+Skip to contents of guide
+
+Contents
+
+Overview
+
+Eligibility
+
+Keeping records
+
+VAT return
+
+Keeping records
+
+You must keep the usual VAT records when you use a margin scheme.
+
+You must also keep:
+
+a stockbook that tracks each item sold under the margin scheme individually
+
+copies of purchase and sales invoices for all items
+
+Stockbook
+
+You must record certain information for each item you buy and sell that you want to use a margin scheme for.
+
+Stock number in numerical sequence
+
+Date of purchase
+
+Date of sale
+
+Purchase invoice number (unless you made out the purchase invoice yourself)
+
+Sales invoice number
+
+Purchase price
+
+Selling price, or method of disposal
+
+Name of seller
+
+Name of buyer
+
+Description of the item
+
+Margin on sale (sales price less purchase price)

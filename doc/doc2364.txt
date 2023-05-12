@@ -1,0 +1,17 @@
+An example of an invoice showing disbursements and recharges
+
+A website design consultant based in London does a week’s work for a client in Edinburgh. The consultant visits the client’s premises at the start of the week to discuss the project. The consultant also agrees to purchase a website hosting package from an Internet service provider on behalf of the client.
+
+The consultant and the client agree the following fees:
+
+Consultant’s work
+
+£2,500 plus VAT
+
+Consultant’s travelling expenses
+
+£300
+
+Website hosting package purchased on the client’s behalf
+
+£150

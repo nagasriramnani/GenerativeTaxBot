@@ -1,0 +1,11 @@
+You are accountable to HMRC for output tax on the supplies you make to your customer, so you should check that your customer is applying the correct rate of VAT on the invoices they send you. If there has been a VAT rate change, you will need to check that the correct rate has been used.
+
+If you’re a supplier who receives electronic self-billed invoices from a customer in another country you’ll need to make sure that:
+
+they issue the invoices in a format that’s acceptable to HMRC
+
+your accounting systems can accept the invoices
+
+Take care not to treat self-billed invoices as purchase invoices and reclaim the VAT shown as your input tax. If you do incorrectly treat the VAT as input tax you’ll have to correct the mistake.
+
+Detailed information about self-billing

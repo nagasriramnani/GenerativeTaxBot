@@ -1,0 +1,17 @@
+Calculate tax on employees' company cars
+
+As an employer, if you provide company cars or fuel for your employees’ private use, you’ll need to work out the taxable value so you can report this to HM Revenue and Customs (HMRC).
+
+‘Private use’ includes employees’ journeys between home and work, unless they’re travelling to a temporary place of work.
+
+Find out about tax on company cars if you’re an employee.
+
+Work out taxable value
+
+You can calculate taxable value using commercial payroll software.
+
+Or you can use HMRC’s company car and car fuel benefit calculator if it works in your browser.
+
+Using the HMRC calculator
+
+Choose fuel type ‘F’ for diesel cars that meet the Euro 6d standard (also known as Real Driving Emissions 2). Choose type ‘D’ for other diesel cars.

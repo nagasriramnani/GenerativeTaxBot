@@ -1,0 +1,11 @@
+You must declare VAT on the deposit when you receive it, or when you issue a VAT invoice, whichever happens first.
+
+If you keep a deposit if your customer decides not to take up the goods or service, VAT remains due on the money you have received.
+
+Using the cash accounting scheme
+
+If you use the cash accounting scheme you’ll account for the VAT when you receive payment from your customers unless it’s a returnable deposit.
+
+Payments for continuous supplies
+
+If you supply services on a continuous basis and you receive regular or occasional payments, a tax point is created every time you issue a VAT invoice or receive a payment, whichever happens first.

@@ -1,0 +1,29 @@
+6% of your income over the threshold if you’re on a Postgraduate Loan plan
+
+The examples show how much you’d repay depending on your income and plan type:
+
+Example
+
+You’re on Plan 1 and have an income of £33,000 a year, meaning you get paid £2,750 each month.
+
+Calculation:
+
+£2,750 – £1,834 (your income minus the Plan 1 threshold) = £916
+9% of £916 = £82
+
+This means the amount you’d repay each month would be £82.
+
+Example
+
+You’re on Plan 4 and have an income of £30,000 a year, meaning you get paid £2,500 each month.
+
+Calculation:
+
+£2,500 – £2,305 (your income minus the Plan 4 threshold) = £195
+9% of £195 = £18
+
+This means the amount you’d repay each month would be £18.
+
+Interest
+
+How much interest you’re charged depends which plan type you’re on. You’re currently charged:

@@ -1,0 +1,31 @@
+Work out the daily interest: divide your yearly interest from step 1 by 365 (the number of days in a year).
+
+Work out the total amount of interest: multiply the daily interest from step 2 by the number of days the debt has been overdue.
+
+Example
+
+If you were owed £1,000:
+
+the annual interest would be £80 (1000 x 0.08 = 80)
+
+you’d divide £80 by 365 to get the daily interest: about 22p a day (80 / 365 = 0.22)
+
+after 50 days this would be £11 (50 x 0.22 = 11)
+
+Previous
+            :
+            Court fees
+
+Next
+            :
+            Make a claim
+
+View a printable version of the whole guide
+
+Related content
+
+Apply to bankrupt someone who owes you money
+
+Possession Claim Online: recover property
+
+Make and serve a statutory demand, or challenge one

@@ -1,0 +1,15 @@
+If you do not have a Postgraduate Loan
+
+You’ll repay 9% of your income over the lowest threshold out of the plan types you have. You’ll only have a single repayment taken each time you get paid, even if you’re on more than one plan type.
+
+Example
+
+You’re on Plan 1 and Plan 2 and have an income of £25,200 a year, meaning you get paid £2,100 each month. This is over the Plan 1 threshold of £1,834 but under the Plan 2 threshold of £2,274.
+
+You’ll repay 9% of your income over £1,834 a month because that is the lowest threshold out of the plan types you have.
+
+Calculation:
+£2,100 – £1,834 (your income minus the lowest threshold) = £266
+9% of £266 = £24
+
+This means the amount you’d repay each month would be £24.

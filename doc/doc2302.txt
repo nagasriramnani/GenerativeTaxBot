@@ -1,0 +1,26 @@
+Estate = £500,000 
+Less threshold = £325,000 
+Total = £175,000 
+Inheritance Tax due @ 40% = £70,000
+
+Calculate the proportion of the Inheritance Tax that is attributable to the American apartment using the formula.
+
+Value of asset ÷ total value of the estate x IHT = 35,000 ÷ 500,000 x 70,000 = £4,900 Inheritance Tax on the American apartment.
+
+The American tax actually paid was £1,500, so the relief is limited to the £1,500 actually paid.
+
+Further information
+
+For more information about Double Taxation Treaties read the HMRC Foreign property: Double Taxation Conventions manual.
+
+Published 23 July 2013
+
+Get emails about this page
+
+Contents
+
+Related content
+
+Inheritance Tax deemed domicile rules
+
+Valuing stocks and shares for Inheritance Tax

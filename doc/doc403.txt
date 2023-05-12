@@ -1,0 +1,29 @@
+The tax point can vary, but it’s usually the following:
+
+No invoice needed
+
+Date of supply
+
+VAT invoice issued
+
+Date of invoice
+
+VAT invoice issued 15 days or more after the date of supply
+
+Date the supply took place
+
+Payment or invoice issued in advance of supply
+
+Date of payment or invoice (whichever is earlier)
+
+The date of supply is:
+
+for goods - the date they’re sent, collected or made available (for example, when they’re installed in the customer’s house)
+
+for services - the date the work is finished
+
+Exceptions to the tax point rule
+
+If you use the VAT Cash Accounting Scheme, the tax point is always the date the payment is received.
+
+Read the guidance on how to work out the tax point in other situations. For example, there are different tax point rules for:

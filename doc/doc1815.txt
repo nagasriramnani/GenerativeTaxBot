@@ -1,0 +1,17 @@
+the name of your business
+
+After you tell HMRC
+
+You’ll get an email from HMRC to confirm that you’ve been recorded as operating under the Northern Ireland Protocol.
+
+After you get the email, you’ll need to start using the XI prefix before your usual VAT number - for example, XI 123456789 instead of GB 123456789.
+
+Using your XI VAT number
+
+You must use your XI VAT number on all documentation when communicating with EU customers or suppliers (for example, on invoices).
+
+If you’re selling goods from Northern Ireland to VAT-registered customers in the EU, complete an EC Sales List.
+
+If you do not tell HMRC or use an XI VAT number, it could mean that you pay or charge the wrong VAT on goods.
+
+If you’ve stopped selling or moving goods in Northern Ireland

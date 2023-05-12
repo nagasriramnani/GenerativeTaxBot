@@ -1,0 +1,17 @@
+can’t claim back any VAT on them
+
+This guide explains when:
+
+you should charge VAT on the costs and expenses you pass to your customers
+
+payments like these can be treated as disbursements
+
+Disbursements: costs to exclude from VAT calculations
+
+A payment made to suppliers on behalf of your customers is called a ‘disbursement’ if you pass the cost on to your customers when you invoice them.
+
+You might be able to leave out these payments from your VAT calculations because it’s the customer, not you, who buys and receives the goods or services; you’re just acting as their agent.
+
+To treat a payment as a disbursement all of the following must apply:
+
+you paid the supplier on your customer’s behalf and acted as the agent of your customer

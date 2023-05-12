@@ -1,0 +1,15 @@
+external solar shading
+
+Buildings
+
+You cannot claim the full 6% rate on buildings themselves. You may be able to claim an allowance of 3% on money you spend on buying, constructing or renovating some non-residential buildings.
+
+Items with a long life
+
+These are items with a useful life of at least 25 years from when they were new.
+
+If the value of all long-life items you buy in an accounting period is more than £100,000, put the costs in the special rate pool.
+
+If the value totals £100,000 or less, put the costs in the main rate pool unless there’s another factor that would qualify it as special rate - for example, it’s an integral feature.
+
+This £100,000 limit is adjusted if your accounting period is more or less than 12 months.

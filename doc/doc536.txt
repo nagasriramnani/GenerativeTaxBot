@@ -1,0 +1,35 @@
+£175,000 (the lower of £500,000 and £175,000)
+
+basic Inheritance Tax threshold
+
+£325,000
+
+Take away the basic Inheritance Tax threshold of £325,000 from the lifetime gifts of £700,000:
+
+lifetime gifts
+
+£700,000
+
+less basic Inheritance Tax threshold
+
+£325,000
+
+value of gifts that Inheritance Tax is due on
+
+£375,000
+
+The lifetime gifts use up the basic Inheritance Tax threshold. So you pay Inheritance Tax on £375,000 worth of the gifts.
+
+But the residence nil rate band is still available to take off from the estate value:
+
+estate value
+
+£750,000
+
+less residence nil rate band
+
+£175,000
+
+estate value that Inheritance Tax is due on
+
+£575,000

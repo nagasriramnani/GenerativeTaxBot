@@ -1,0 +1,15 @@
+Valuation of imported goods
+
+The value for VAT of imported goods is their customs value, determined by the rules in Notice 252, as well as:
+
+incidental expenses – such as commission, packing, transport and insurance costs incurred up to the goods’ first destination in the UK
+
+any Customs Duty or levy payable on importation into the UK
+
+any Excise Duty or other charges payable on importation into the UK – except the VAT itself
+
+The value of VAT is normally added to box 22 of the import declaration automatically. If it needs to be calculated manually, you must enter the code ‘VAT’ in the rate column of box 47, and enter the value in the amount column.
+
+Goods destined for another country
+
+If you’re importing goods that are destined for another country (for example Ireland) you must either:

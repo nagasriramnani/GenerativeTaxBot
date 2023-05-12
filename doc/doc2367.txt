@@ -1,0 +1,9 @@
+Your customer will also be able to claim back the VAT you charged them if they’re VAT-registered.
+
+When you can’t claim back VAT
+
+If you paid a VAT-registered supplier for goods or services on a customer’s behalf, there may have been VAT on what they charged. You can’t claim this VAT back if the goods or services were supplied to your customer and not to your business, and you treated this as a disbursement for VAT purposes when you invoiced your customer and did not charge VAT.
+
+Your customer may also be unable to claim back the VAT if they don’t have a valid VAT invoice for the goods or services.
+
+What records you need to keep for VAT

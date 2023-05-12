@@ -1,0 +1,13 @@
+You might be able to leave out these payments from your VAT calculations because it’s the customer, not you, who buys and receives the goods or services; you’re just acting as their agent.
+
+To treat a payment as a disbursement all of the following must apply:
+
+you paid the supplier on your customer’s behalf and acted as the agent of your customer
+
+your customer received, used or had the benefit of the goods or services you paid for on their behalf
+
+it was your customer’s responsibility to pay for the goods or services, not yours
+
+you had permission from your customer to make the payment
+
+your customer knew that the goods or services were from another supplier, not from you

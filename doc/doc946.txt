@@ -1,0 +1,23 @@
+0T
+
+Your Personal Allowance has been used up, or you’ve started a new job and your employer does not have the details they need to give you a tax code
+
+BR
+
+All your income from this job or pension is taxed at the basic rate (usually used if you’ve got more than one job or pension)
+
+D0
+
+All your income from this job or pension is taxed at the higher rate (usually used if you’ve got more than one job or pension)
+
+D1
+
+All your income from this job or pension is taxed at the additional rate (usually used if you’ve got more than one job or pension)
+
+NT
+
+You’re not paying any tax on this income
+
+Your income or pension is taxed using the rates in Scotland
+
+S0T

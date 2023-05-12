@@ -1,0 +1,9 @@
+an airline ticket that you buy to visit a client or to travel to a job, if you recharge the cost to your client you must charge VAT because the flight was for you, not for the client
+
+postage costs you incur when you send letters to your customers, these are normal business costs and you must add VAT if you recharge them
+
+a bank transfer fee paid when transferring money from your business account to a client’s account -  even though the bank’s fee is exempt from VAT, if you recharge the fee you must charge VAT, because it was for a service provided to your business and not to your customer
+
+Showing disbursements and recharges on your invoices
+
+If you exclude disbursements from the VAT calculations you must itemise them separately on your  VAT invoices.

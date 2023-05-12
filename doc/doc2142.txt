@@ -1,0 +1,17 @@
+Using the cash accounting scheme
+
+If you use the cash accounting scheme you’ll account for the VAT when you receive payment from your customers unless it’s a returnable deposit.
+
+Payments for continuous supplies
+
+If you supply services on a continuous basis and you receive regular or occasional payments, a tax point is created every time you issue a VAT invoice or receive a payment, whichever happens first.
+
+If the payments are going to be made regularly you can issue a VAT invoice at the beginning of any period of up to a year for all the payments due in that period, as long as there’s more than 1 payment due. For each payment you should set out on the invoice the:
+
+amount of the payment excluding VAT
+
+date the payment’s due
+
+rate of VAT
+
+amount of VAT payable

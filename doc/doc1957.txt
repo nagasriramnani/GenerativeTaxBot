@@ -1,0 +1,9 @@
+If you sell units in an investment fund which owns UK land, the special rules for collective investment vehicles might apply. These rules may mean that you have to pay Capital Gains Tax even if you own less than 25% of the investment fund. Find out more about collective investment vehicles in CG73995P of the HMRC Capital Gains Manual.
+
+The gains on indirect disposals will be calculated using the value of the asset being disposed of, rather than the value of the underlying UK land.
+
+Indirect disposals do not apply when:
+
+land used in a continuing trade is also disposed of
+
+2 or more companies are sold at the same time by the same investors and the property richness test would not apply if the disposals were taken as one transaction — read more information about property richness

@@ -1,0 +1,23 @@
+To make weekly or monthly Direct Debit payments towards your next Self Assessment tax bill, set up a Budget Payment Plan.
+
+Find the reference number for your Direct Debit
+
+You’ll need to use your 11-character payment reference. This is your 10-digit Unique Taxpayer Reference (UTR) followed by the letter ‘K’.
+
+You’ll find it either:
+
+in your HMRC online account
+
+on your paying-in slip, if you get paper statements
+
+Your payment may be delayed if you use the wrong reference number.
+
+Allow 5 working days to process a Direct Debit the first time you set one up. It should take 3 working days the next time if you’re using the same bank details.
+
+Previous
+            :
+            Overview
+
+Next
+            :
+            Approve a payment through your online bank account

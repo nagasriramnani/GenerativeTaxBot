@@ -1,0 +1,9 @@
+You must account for the value of the services in sterling, so you must convert their value into sterling if the services were priced in any other currency.
+
+Find out more about the reverse charge and services supplied from abroad in Notice 741A.
+
+Claiming relief on re-imported exported goods
+
+If you’ve exported goods and you re-import them, you may be able to claim back the VAT that you pay when you import them. If the goods were originally sent out of the UK temporarily – for example for exhibition, or because they were on sale or return and they were returned – there is no UK VAT due on import. Otherwise, you may be able to obtain Returned Goods Relief.
+
+Returned Goods Relief

@@ -1,0 +1,33 @@
+VAT-exclusive prices
+
+To work out a price that excludes the standard rate of VAT (20%) divide the price including VAT by 1.2.
+
+Example
+
+You bought a table and the total price including 20% VAT was £180.
+
+180 ÷ 1.20 = 150
+
+The price excluding VAT is £150. The amount you can claim back is the difference between the two numbers - £30.
+
+To work out a price that excludes the reduced rate of VAT (5%) divide the price including VAT by 1.05.
+
+Example
+
+You bought a stairlift and the total price including 5% VAT was £483.
+
+483 ÷ 1.05 = 460
+
+The price excluding VAT is £460. The amount you can claim back is the difference between the two numbers - £23.
+
+Next
+            :
+            When not to charge VAT
+
+View a printable version of the whole guide
+
+Related content
+
+How VAT works
+
+Register for VAT

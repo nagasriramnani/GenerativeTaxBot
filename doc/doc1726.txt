@@ -1,0 +1,13 @@
+Read Notice 741A for more information.
+
+Dealing with the reverse charge
+
+You calculate the amount of VAT (output tax) on the full value of the services supplied to you, and then enter on your VAT Return the:
+
+amount of VAT you calculated in box 1, and if you’re entitled to reclaim some or all of the VAT on your purchase of these supplies, also put the same figure in box 4 (this in effect cancels out the figure in box 1)
+
+full value of the supply in both box 6 and box 7
+
+Value of services from other countries
+
+The amount of VAT payable of any service from another country is the same as the amount of VAT that would be paid if the service were supplied to you by a UK supplier for the same net amount.

@@ -1,0 +1,9 @@
+non-UK companies
+
+How to use the Negligible Value Agreement list
+
+To check if your shares or securities were quoted on the London Stock Exchange, and have been declared as being of negligible value, select the first letter of the company name in the Negligible Value Agreement list index.
+
+The word ‘security’ represents the ownership interest held by the shareholders in a company, realised in the form of publicly traded stock or shares which includes ordinary shares and preferred stock.
+
+The ‘effective date’ is the date that an agreement or transaction becomes binding, that is the date (or length of time) on which a claim to Negligible Value on the shown security is valid.

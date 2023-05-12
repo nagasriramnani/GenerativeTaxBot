@@ -1,0 +1,13 @@
+Changes to a partnership
+
+You do not need to tell HMRC a partner is joining or leaving unless the partnership is VAT-registered. Partners still have to send a Self Assessment tax return for the year they leave.
+
+If your partnership is VAT-registered, you must tell HMRC when a partner joins or leaves within 30 days - you can be fined if you do not. Download and fill in form VAT 2.
+
+If a partner dies or is made bankrupt
+
+If there are 2 partners the partnership will be automatically dissolved.
+
+The remaining partner must re-register for Self Assessment as a sole trader.
+
+If there are more than 2 partners, the partnership will be dissolved unless the partnership has agreed otherwise.

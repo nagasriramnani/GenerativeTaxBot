@@ -1,0 +1,11 @@
+the cost of the products
+
+the cost of the labour
+
+If the cost of the products (not including VAT) is 60% or less of the total cost of the installation (not including VAT), you’ll pay 5% VAT on everything.
+
+If the products cost more than 60% of the total cost of installation, you’ll only pay 5% VAT on the labour. You’ll pay the standard rate of 20% VAT for the products.
+
+Example - insulation materials are 60% or less of the total cost of installation
+
+Your installer charges you a total of £1000 (excluding VAT) for installation – £400 for the materials and £600 for the labour. This means the value of the materials (£400) is only 40% of the total cost of installation (£1000). Your installer can charge you the reduced rate of 5% VAT on the total installation cost.

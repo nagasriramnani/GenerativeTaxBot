@@ -1,0 +1,21 @@
+You must claim a refund from HMRC within 4 years and 6 months of the date the payment was due or the date of supply (whichever was later).
+
+For each bad debt you must show:
+
+total amount of VAT involved
+
+amount written off and any payments you’ve received
+
+the VAT you’re claiming on the debt
+
+the VAT period(s) you paid the VAT and are claiming the relief
+
+invoice details like the date and the customer’s name
+
+You must keep this information for 4 years after the claim is made, or 10 years if you used the VAT MOSS.
+
+Time of supply or tax point
+
+You need to know a transaction’s time of supply (or ‘tax point’). This is the date the transaction takes place for tax purposes.
+
+The tax point tells you which VAT period the transaction belongs to, and which return to put it on.

@@ -1,0 +1,19 @@
+VAT repayments
+
+Usually, if you’ve charged your customers less VAT than you’ve paid on your purchases, HM Revenue and Customs (HMRC) repay you the difference.
+
+When you complete the boxes on your VAT Return, the information you enter will show you the:
+
+total amount of VAT charged - Box 3
+
+total amount of VAT paid - Box 4
+
+You’re due a repayment if the figure in Box 3 is less than the figure in Box 4.
+
+How much you’re repaid is the figure shown in Box 5 of your VAT Return.
+
+This guide is also available in Welsh (Cymraeg).
+
+How long it takes
+
+Repayments are usually made within 30 days of HMRC getting your VAT Return.

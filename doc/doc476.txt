@@ -1,0 +1,13 @@
+Settlor-interested discretionary trusts
+
+If a settlor-interested trust is a discretionary trust, payments made to the settlor’s spouse or civil partner are treated as though they’ve already been taxed at 45%. There’s no more tax to pay. However, unlike payments made from other types of trusts, the tax credit cannot be claimed back.
+
+Non-resident trusts
+
+This is a trust where the trustees are not resident in the UK for tax purposes. The tax rules for this type of trust are very complicated - there’s detailed guidance on non-resident trusts.
+
+If a pension scheme pays into a trust
+
+When a pension scheme pays a taxable lump sum into a trust after the pension holder dies, the payment is taxed at 45%.
+
+If you’re a beneficiary and receive a payment funded by this lump sum, you’ll also be taxed.

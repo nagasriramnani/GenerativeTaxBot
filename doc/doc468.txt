@@ -1,0 +1,11 @@
+Accounting for VAT while you wait for your VAT number
+
+You cannot include VAT on your invoices until you get your VAT number but you can increase your prices to account for the VAT you’ll need to pay to HMRC.
+
+Example
+
+On 1 May, you arrange a £100,000 contract to provide services to a new customer. You register for VAT because you know you’ll go over the threshold in the next 30 days.
+
+Your effective date of registration is 1 May. This means you’ll need to pay VAT to HMRC on any invoices you raise from that date.
+
+To account for the VAT you’ll need to pay, tell your customer that you’ll be adding 20% to the original contract amount of £100,000 and then raise an invoice for £120,000.

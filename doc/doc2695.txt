@@ -1,0 +1,11 @@
+you show the costs separately on your invoice
+
+you pass on the exact amount of each cost to your customer when you invoice them
+
+the goods and services you paid for are in addition to the cost of your own services
+
+It’s usually only an advantage to treat a payment as a disbursement if the supplier didn’t charge VAT on it, or if your customer can’t reclaim the VAT.
+
+What isn’t a disbursement
+
+There are many incidental costs your business might incur that must be included in VAT calculations when you invoice customers. These include items like travelling expenses and your own postage and delivery costs.

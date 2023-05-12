@@ -1,0 +1,17 @@
+How it’s set up
+
+HM Revenue and Customs (HMRC) will automatically collect what you owe through your tax code if you meet all 3 conditions, unless you’ve specifically asked them not to (on your tax return).
+
+If you’re not eligible, you will not be able to pay this way.
+
+When you cannot pay through your tax code
+
+You will not be able to pay your tax bill through your PAYE tax code if:
+
+you do not have enough PAYE income for HMRC to collect it
+
+you’d pay more than 50% of your PAYE income in tax
+
+you’d end up paying more than twice as much tax as you normally do
+
+you owed £3,000 or more but made a part payment to reduce the amount you owe to less than £3,000

@@ -1,0 +1,7 @@
+You may also be further restricted in what input tax you can recover. For example, if you are making exempt supplies. This will mean that you have incurred an input tax restriction twice on the same goods.
+
+To prevent this, you should reattribute the previously unrecovered input VAT on the original purchase in Great Britain as if the goods had been used for a taxable purchase. You can do this when making your annual adjustment.
+
+How to recover VAT on exempt supplies moved to Northern Ireland
+
+For example, if you purchase goods that are valued at £10,000 plus VAT of £2,000.  Because you are making exempt supplies, only £1,000 of the VAT is recoverable.

@@ -1,0 +1,31 @@
+£750
+
+Net UK tax
+
+£2,250
+
+Example 2
+
+Tom is domiciled in Utopia but holds shares in a Ruritanian company, which maintains a duplicate share register in the UK. Under UK law they regard the shares as sited in the UK, but Ruritanian law regards them as sited in Ruritania. Tom dies (but his estate is not liable to Utopian tax).
+
+UK Inheritance Tax (A)
+
+£1,000
+
+Ruritanian Inheritance Tax (B)
+
+£4,000
+
+C is the smaller of A and B
+
+£1,000
+
+Credit against UK Inheritance Tax is £1,000 ÷ (£1,000 + £4,000) x £1,000
+
+£200
+
+Net UK tax
+
+£800
+
+Double Taxation Relief

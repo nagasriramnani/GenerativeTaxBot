@@ -1,0 +1,19 @@
+Use your payroll software to recalculate their National Insurance, either at the time of the change or the end of the tax year.
+
+When an employee stops being a director
+
+After you’ve paid the employee for the last time, tell HMRC by deleting the ‘Director’s NIC calculation method’ entry in the FPS.
+
+Work out any National Insurance due using payroll software. Deduct any National Insurance the director owes from their last payment.
+
+If the director is still your employee
+
+Calculate their National Insurance based on their earnings for the whole of the tax year, as if they were still a director.
+
+From the next tax year, calculate their National Insurance as an employee based on each pay period.
+
+Related content
+
+National Insurance rates and categories
+
+Employment status

@@ -1,0 +1,25 @@
+Some ways you can link your software include:
+
+using formulas to link cells in spreadsheets
+
+emailing records
+
+putting records on a portable device to give to your agent
+
+importing and exporting XML and CSV files
+
+downloading and uploading files
+
+This lets you submit your business’s VAT return online.
+
+You do not need to scan paper invoices or receipts.
+
+When you’re exempt from keeping digital records
+
+You must follow the rules for ‘Making Tax Digital for VAT’ by keeping some records digitally, unless:
+
+your business uses the VAT GIANT service, for example if you’re a government department or an NHS Trust
+
+you’re eligible for an exemption
+
+How long you must keep records

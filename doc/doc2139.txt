@@ -1,0 +1,13 @@
+security deposits for goods hired out
+
+Tax points
+
+A tax point is the date you have to account for VAT on the sale of goods or the supply of services. There are different types of tax points and you’ll need to make sure you get the right transaction on the right VAT Return.
+
+Advance payments and deposits
+
+An advance payment, or deposit, is a proportion of the total selling price that a customer pays before you supply them with goods or services.
+
+The tax point will be either the date you issue a VAT invoice for the advance payment, or the date you receive the advance payment, whichever happens first.
+
+You include the VAT due on the advance payment on your VAT Return for the period when the tax point occurs.

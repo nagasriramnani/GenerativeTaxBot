@@ -1,0 +1,35 @@
+08 32 10
+
+12001136
+
+HMRC Inheritance Tax
+
+You’ll need to use your Inheritance Tax payment reference number as the payment reference.
+
+How long it takes
+
+Payments made by Faster Payments will usually reach HMRC on the same or next day, including weekends and bank holidays.
+
+CHAPS payments usually reach HMRC the same working day if you pay within your bank’s processing times.
+
+Bacs payments usually take 3 working days.
+
+Check your bank’s transaction limits and processing times before making a payment.
+
+Overseas payments
+
+Use these details to pay from an overseas account.
+
+GB66BARC20114763495590
+
+BARCGB22
+
+HMRC Inheritance Tax
+
+HMRC’s banking address is:
+
+Barclays Bank PLC
+1 Churchill Place 
+London 
+United Kingdom 
+E14 5HP

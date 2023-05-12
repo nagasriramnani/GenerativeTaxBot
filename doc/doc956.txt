@@ -1,0 +1,31 @@
+Bank identifier code (BIC) - BARCGB22
+
+Account name - HMRC VAT
+
+Barclays Bank PLC
+1 Churchill Place 
+London 
+United Kingdom 
+E14 5HP
+
+Reference number
+
+Use your 9-digit VAT registration number, without spaces, as the payment reference.
+
+Find your registration number:
+
+in your VAT online account
+
+on your VAT registration certificate
+
+If you need to pay a VAT surcharge or penalty
+
+Use your 14-digit reference number beginning with ‘X’, without spaces, as the payment reference.
+
+You can find your 14-digit reference number in the letter HMRC sent you about your surcharge or penalty.
+
+Your payment may be delayed if you use the wrong reference number.
+
+How long it takes
+
+Check your bank’s processing times before you pay.

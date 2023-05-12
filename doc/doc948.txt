@@ -1,0 +1,23 @@
+Your income or pension is taxed using the rates in Wales
+
+C0T
+
+Your Personal Allowance (Wales) has been used up, or you’ve started a new job and your employer does not have the details they need to give you a tax code
+
+CBR
+
+All your income from this job or pension is taxed at the basic rate in Wales (usually used if you’ve got more than one job or pension)
+
+CD0
+
+All your income from this job or pension is taxed at the higher rate in Wales (usually used if you’ve got more than one job or pension)
+
+CD1
+
+All your income from this job or pension is taxed at the additional rate in Wales (usually used if you’ve got more than one job or pension)
+
+If your tax code has ‘W1’ or ‘M1’ or ‘X’ at the end
+
+These are emergency tax codes.
+
+If your tax code has a ‘K’ at the beginning

@@ -1,0 +1,29 @@
+They also give credit where both the UK and another country impose tax on assets that are sited:
+
+in a third country
+
+both in the UK under UK law and in the other country under that country’s law
+
+In these cases the credit is a proportion of the tax. The proportionate credit is computed by the formula:
+A ÷ (A + B) x C
+
+A is the Inheritance Tax, B is the overseas tax and C is whichever of A or B is smaller. 
+If the UK and two or more other countries tax the same asset the above applies but with modifications.
+
+Examples of Unilateral Relief calculations
+
+Example 1
+
+Ann is domiciled in Ruritania, but is also treated as domiciled in the UK. She makes a gift of property sited in Utopia.
+
+UK Inheritance Tax (A)
+
+£3,000
+
+Ruritanian Inheritance Tax (B)
+
+£1,000
+
+C is the smaller of A and B
+
+£1,000

@@ -1,0 +1,19 @@
+S0T
+
+Your Personal Allowance (Scotland) has been used up, or you’ve started a new job and your employer does not have the details they need to give you a tax code
+
+SBR
+
+All your income from this job or pension is taxed at the basic rate in Scotland (usually used if you’ve got more than one job or pension)
+
+SD0
+
+All your income from this job or pension is taxed at the intermediate rate in Scotland (usually used if you’ve got more than one job or pension)
+
+SD1
+
+All your income from this job or pension is taxed at the higher rate in Scotland (usually used if you’ve got more than one job or pension)
+
+SD2
+
+All your income from this job or pension is taxed at the top rate in Scotland (usually used if you’ve got more than one job or pension)

@@ -1,0 +1,5 @@
+If there’s a VAT rate change during the period covered by an invoice for continuous supplies, you can declare VAT at the new rate on the part of the supply of goods or services you made after the rate change - even though the normal tax point happened earlier. For example, where a payment is received before the goods or services are supplied.
+
+If you decide to do this then you should declare VAT at the old rate on the value of the goods supplied or services performed before the change in rate, and at the new rate after the rate changed. If doing this reduces the amount of VAT due then you must issue a credit note to your customer.
+
+Credit and conditional sales

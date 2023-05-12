@@ -1,0 +1,15 @@
+Choose type ‘A’ for all other cars.
+
+You can check a car’s CO2 emissions.
+
+For electric cars and other cars with an approved CO2 emissions figure of 75g/km or less, answer ‘no’ to the question ‘is the car provided via an optional remuneration arrangement?’.
+
+If your car has an approved CO2 emissions figure of 1 to 50g/km, you’ll also need to fill in the box for ‘zero emission mileage’ (also known as electric range). This is the distance the car can go on electric power before its batteries need recharging.
+
+You can get your zero emission mileage figure from:
+
+your vehicle’s certificate of conformity, if you own the car
+
+the leasing company or fleet provider, if you lease the car
+
+Work out the value manually

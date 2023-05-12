@@ -1,0 +1,19 @@
+Repayment interest is paid at the Bank of England base rate minus 1%, with a minimum rate of 0.5%.
+
+Repayments to an overseas bank account
+
+You can only get VAT repayments paid into an overseas bank account if your company:
+
+does not have a UK bank account (and you’re unable to get one)
+
+does not have a UK address
+
+For HMRC to make a payment into your overseas bank account, it must be:
+
+in the name of the company owed a repayment
+
+associated with a named business owner or an authorised person with a Government Gateway ID
+
+able to accept repayments in pounds sterling
+
+You must fill in a form to give details of your overseas bank account before HMRC can transfer any VAT repayments. All VAT repayments will then be sent to this bank account.

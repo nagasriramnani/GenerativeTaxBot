@@ -1,0 +1,27 @@
+VAT-inclusive and exclusive prices
+
+You’ll need to work out the price including VAT when charging VAT on goods or services. You might also need to work out the amount of VAT you paid on goods you bought, if you plan to reclaim the VAT.
+
+VAT-inclusive prices
+
+To work out a price that includes the standard rate of VAT (20%), multiply the price excluding VAT by 1.2.
+
+Example
+
+You’re selling a chair for £60 and need to add 20% VAT to get the price including VAT.
+
+60 x 1.2 = 72
+
+The price including VAT is £72.
+
+To work out a price that includes the reduced rate of VAT (5%), multiply the price excluding VAT by 1.05.
+
+Example
+
+You’re selling a child’s car seat for £200 and need to add 5% VAT to get the price including VAT.
+
+200 x 1.05 = 210
+
+The price including VAT is £210.
+
+VAT-exclusive prices

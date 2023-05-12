@@ -1,0 +1,27 @@
+Calculate the net value of errors
+
+To work out the net value of the errors:
+
+add up the additional tax due to HMRC
+
+subtract the tax you’re due
+
+You must report deliberate errors separately - you cannot include them in this calculation.
+
+How to make the adjustment
+
+When you submit your next return, add the net value to box 1 for tax due to HMRC, or to box 4 for tax due to you.
+
+Or you can tell HMRC about errors in your VAT return by filling in either:
+
+the online form
+
+form VAT652
+
+You must:
+
+keep details about the error (for example, the date it was discovered, how it happened and the amount of VAT involved)
+
+include the value of the error in your VAT account
+
+Read more about how to correct VAT errors and make adjustments or claims.

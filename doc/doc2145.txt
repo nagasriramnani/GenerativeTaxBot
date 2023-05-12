@@ -1,0 +1,11 @@
+The tax point for a credit sale or a conditional sale is created at the time you supply the goods or services to your customer. This is the basic tax point and is when you should account for the VAT on the full value of the goods.
+
+This basic tax point may be over-ridden and an actual tax point created if you issue either a:
+
+VAT invoice or receive payment before supplying the goods or services
+
+VAT invoice up to 14 days after the basic tax point
+
+If you use the cash accounting scheme, goods that you sell under credit sale or conditional sale agreements are excluded from the scheme.
+
+Credit sales where you provide finance to your customer

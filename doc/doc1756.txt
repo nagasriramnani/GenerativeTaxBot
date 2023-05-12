@@ -1,0 +1,13 @@
+Reclaiming input tax
+
+You’ll only be able to reclaim the input tax shown on self-billed invoices if you meet all the record keeping requirements.
+
+When you can reclaim the input tax depends on the date when the supply of the goods or services takes place for VAT purposes.
+
+Normally the date of supply for VAT purposes is the actual date when the goods or services are provided to you, the customer. But if you issue a self-billed invoice within 14 days of this date of supply, then the date you issue the invoice becomes the date of the transaction for VAT purposes.
+
+This determines which VAT Return you put the transaction on, and if there is a VAT rate change, it determines which VAT rate applies to the invoice.
+
+If you’re a VAT-registered supplier
+
+Setting up a self-billing arrangement

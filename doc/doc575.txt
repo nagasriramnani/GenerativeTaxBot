@@ -1,0 +1,15 @@
+Deduct the amount you can claim from the pool to get the closing balance. This is known as the ‘tax written down value’.
+
+Use the amount left in each pool as the opening balance for the next accounting period.
+
+Example
+
+The opening balance in your main pool is £9,000. You buy a machine worth £1,200. The total for this pool is then £10,200 (£9,000 plus £1,200).
+
+You sell a desk for £200. The total for this pool is then £10,000 (£10,200 minus £200).
+
+Apply the rate for the main pool (18%). The amount you can claim for this pool in this period is £1,800 (18% of £10,000).
+
+The rest (£8,200) is your closing balance or tax written down value. This is carried over and becomes your opening balance in this pool for your next accounting period.
+
+Items you use outside your business

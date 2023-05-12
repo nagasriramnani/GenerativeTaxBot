@@ -1,0 +1,19 @@
+If you’re using an agent, you can still sign up for a VAT online account when you receive your VAT number (select option ‘VAT submit returns’).
+
+When you cannot register online
+
+You must register by post using VAT1 if:
+
+you want to apply for a ‘registration exception’
+
+you’re joining the Agricultural Flat Rate Scheme
+
+you’re registering the divisions or business units of a body corporate under separate VAT numbers
+
+Register by post using:
+
+form VAT1A if you’re an EU business ‘distance selling’ to Northern Ireland
+
+form VAT1B if you import (‘acquire’) goods into Northern Ireland worth more than £85,000 from an EU country
+
+form VAT1C if you’re disposing of assets and you have claimed Directive refunds on them

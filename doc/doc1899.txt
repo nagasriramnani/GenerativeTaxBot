@@ -1,0 +1,13 @@
+Example
+
+A man died in 2015 and left his entire estate of £600,000 to his wife. This was before the residence nil rate band was available, so 100% is available to transfer to his wife’s estate.
+
+His wife dies on 30 July 2019 and leaves all her estate, including a home worth £400,000 to her daughter.
+
+When she dies in the tax year 2019 to 2020, the maximum available residence nil rate band is £150,000.
+
+Her executor makes a claim to transfer the unused residence nil rate band from her husband’s estate.
+
+So the total available residence nil rate band for his wife’s estate will be £300,000 (£150,000 + (transfer of 100% x £150,000)).
+
+Transferring any unused residence nil rate band

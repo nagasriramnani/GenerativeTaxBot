@@ -1,0 +1,5 @@
+Work out the percentage of residence nil rate band that was not used when the first of the couple died. You do this by dividing the unused amount of threshold by the total that was available when the first of the couple died and multiplying the result by 100. If the person died before 6 April 2017 the unused residence nil rate band and total available are both deemed to be £100,000 so the unused percentage is 100%.
+
+Multiply the percentage of unused residence nil rate band when the first of the couple died by the maximum residence nil rate band available at the time of the survivor’s death. This gives you the sum available to transfer.
+
+Example

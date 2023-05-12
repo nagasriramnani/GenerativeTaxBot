@@ -1,0 +1,19 @@
+Total up the ESP for the VAT period.
+
+If your goods are standard rated at 20% divide the total ESP by 6. If they’re zero rated, deduct the total ESP from your total sales. This will give you your sales at 20%. Then divide by 6.
+
+If you have reduced-rate (5%) goods deduct the ESP of this from your sales before calculating your VAT at 20%. Then calculate the VAT due on reduced-rate goods by dividing the ESP of these by 21. Add this figure to your 20% VAT to get total VAT due.
+
+Example
+
+Your total sales are £25,000.
+
+Deduct the ESP of zero-rated goods = £2,500.
+
+Deduct the ESP of reduced-rate (5% goods) = £105.
+
+Sales of goods at the 20% VAT rate = £22,395.
+
+Divide by 6 to calculate the VAT due on the 20% goods = £3,732.50.
+
+Divide by 21 to calculate the VAT due on the 5% goods = £5.

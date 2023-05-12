@@ -1,0 +1,21 @@
+amount that Inheritance Tax is due on
+
+£50,000
+
+The basic Inheritance Tax threshold applies to any lifetime transfers and any gifts made in the 7 years before someone dies. But the residence nil rate band does not. So the basic Inheritance Tax threshold could be completely used up by those transfers and gifts. But any residence nil rate band would still be available to reduce the tax on the estate.
+
+Example
+
+A man dies in tax year 2020 to 2021 leaving to his granddaughter:
+
+a house worth £500,000
+
+other assets worth £250,000
+
+He made gifts of £700,000 to his other grandchildren and nephew during the 7 years before he died.
+
+The maximum available residence nil rate band in 2020 to 2021 is £175,000.
+
+residence nil rate band for the estate
+
+£175,000 (the lower of £500,000 and £175,000)

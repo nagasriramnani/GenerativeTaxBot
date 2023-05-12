@@ -1,0 +1,27 @@
+Your payments will stay the same until the start of the next annual cycle.
+
+The annual cycle begins in April, May or June depending on which VAT return ‘stagger’ you’re on. We base the amount of your payments during the annual cycle on your liability in the period known as the ‘reference year’.
+
+Reference years
+
+This table sets out the reference year for each return stagger:
+
+March, June, September, December
+
+Year ending September
+
+April of following year
+
+April, July, October, January
+
+Year ending October
+
+May of following year
+
+May, August, November, February
+
+Year ending November
+
+June of following year
+
+So, if you’re on stagger 1, your VAT liability for the reference year ending September 2018 will decide the amount of each payment on account from April 2019 until March 2020.

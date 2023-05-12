@@ -1,0 +1,13 @@
+If the amount of income you receive is more than the available allowance, you can only claim the tax paid on the available allowance.
+
+Example
+
+You received £10,000 of dividend income from a trust in the 2022 to 2023 tax year. The dividend allowance for that year was £2,000.
+
+You have used your personal allowance but you have no other dividend income so your available dividend allowance is £2,000. The trustees have paid tax of £875 on the dividends (£10,000 x 8.75%).
+
+You can reclaim the tax paid by the trustees on an amount equal to your available dividend allowance so you can reclaim £175 (£2000 x 8.75%).
+
+If you’re a Self Assessment taxpayer the repayment will be calculated as part of your return.
+
+If you’re not a Self Assessment taxpayer you can reclaim the tax using form R40.

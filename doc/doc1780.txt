@@ -1,0 +1,15 @@
+They then work out what Income Tax the vulnerable person would have paid if the trust income had been paid directly to them as an individual.
+
+They can then claim the difference between these 2 figures as a deduction from their own Income Tax liability.
+
+This is a complicated calculation but there’s a detailed worked example on the HMRC website.
+
+Capital Gains Tax
+
+Capital Gains Tax may be due if assets are sold, given away, exchanged or transferred in another way and they’ve gone up in value since being put into trust.
+
+Tax is only paid by trustees if the assets have increased in value above the the trust’s tax-free allowance (called the ‘annual exempt amount’).
+
+For the 2023 to 2024 tax year, the tax-free allowance for trusts is:
+
+£6,000 for vulnerable beneficiaries

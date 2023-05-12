@@ -1,0 +1,17 @@
+whether it should make payments on account
+
+the amount of each payment on account
+
+Businesses registered as part of a VAT group
+
+We’ll look at the VAT liability of the whole group to decide:
+
+whether it should make payments on account
+
+the amount of each payment on account
+
+A VAT group will have a representative member that’s responsible for making payments on account for the group. If we do not get the payments, all members of the group are jointly and severally responsible for payments on account (this means the group members are responsible together and individually responsible for the group payments).
+
+Payments on account start date and annual cycle
+
+The payments on account cycle starts in the first quarter after you go over the £2.3 million threshold.

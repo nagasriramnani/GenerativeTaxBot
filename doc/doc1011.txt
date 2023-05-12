@@ -1,0 +1,15 @@
+For freight transport the place of supply varies according to whether the customer is in business.
+
+The rule for working out the place of supply of freight transport is if you supply services to a:
+
+business customer, the place of supply is the place where the customer belongs
+
+non-business customer, the place of supply is where the transport takes place
+
+VAT Notice 744B: freight transport and associated services has more about the VAT rules for freight transport services.
+
+Services you supply outside the UK
+
+If you’re supplying services to non-business customers outside the UK, you may not need to pay UK VAT.
+
+These are mainly intangible services that include advertising, intellectual property rights, legal services and accountancy.

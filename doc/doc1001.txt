@@ -1,0 +1,15 @@
+With services, deciding the place of supply can be complicated. There are various rules that apply, depending on:
+
+whether you’ve more than one business location
+
+the kind of service you give
+
+the place where your business or your business customer ‘belongs’
+
+Which country’s VAT rules to use when charging VAT on services
+
+If you’re in the UK and the place of supply of your service is in the UK, you charge and account for VAT according to UK VAT rules.
+
+If you’re in the UK and the place of supply of your service is in an EU country, you do not pay UK VAT.
+
+But for some supplies, you may need to register and account for VAT in the country of supply.

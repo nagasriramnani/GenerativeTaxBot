@@ -1,0 +1,23 @@
+Check a UK VAT number
+
+Use this service to check:
+
+if a UK VAT registration number is valid
+
+the name and address of the business the number is registered to
+
+This service is also available in Welsh (Cymraeg).
+
+If you are a UK VAT-registered business, you can also use this service to prove when you checked a UK VAT number. You will need your own VAT number to do this.
+
+You cannot use this service if you’ve already applied to register for VAT and you’re waiting to hear back from HMRC. Check when you should expect a reply.
+
+Start now
+
+Explore the topic
+
+VAT
+
+Elsewhere on the web
+
+Check an EU VAT number on the VAT Information Exchange System (VIES)

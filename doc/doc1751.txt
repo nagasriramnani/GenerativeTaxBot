@@ -1,0 +1,9 @@
+If a supplier stops being registered for VAT then you can continue to self-bill them, but you cannot issue them with VAT invoices. Your self-billing arrangement with that supplier is no longer covered by the VAT regulations.
+
+Reverse charge procedure
+
+There are special rules if you have a self-billing arrangement and you are involved in transactions that the reverse charge arrangement for business-to-business supplies of mobile telephones and computer chips applies to.
+
+Self-billing agreements
+
+You can only have a self-billing arrangement if your supplier agrees to put one in place. If you do not have an agreement with your supplier your self-billed invoices will not be valid VAT invoices – and you will not be able to reclaim the input tax shown on them.

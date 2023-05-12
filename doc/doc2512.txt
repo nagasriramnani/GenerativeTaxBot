@@ -1,0 +1,5 @@
+Some of the estate may be exempt from Inheritance Tax after you’ve taken off specific amounts (the ‘residue’). This could be because it’s left to a charity. In these cases, HMRC applies a calculation called grossing up when assessing the taxable value of the estate. The exact grossing up calculation will depend on whether the rate of Inheritance Tax applied to the estate is 40% or the reduced 36%.
+
+The grossing up calculator
+
+If there are gifts left ‘tax free’ and only part of the rest of the estate is exempt, or when there are gifts made in your lifetime to consider, the calculation for grossing up becomes more complex.

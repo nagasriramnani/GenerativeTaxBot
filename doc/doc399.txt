@@ -1,0 +1,21 @@
+If a supplier issues you an incorrect invoice
+
+If a supplier issues you an invoice where the amount to pay is wrong, you need to ask the supplier to correct it and issue a new invoice.
+
+If you pay less than the amount due on an invoice, you can only reclaim the VAT on the amount paid - not what is on the invoice.
+
+You cannot claim more VAT than is shown on a valid VAT invoice.
+
+VAT account
+
+You must keep a separate record of the VAT you charge and the VAT you pay on your purchases. This record is called a ‘VAT account’.
+
+You use the figures in your VAT account to complete your VAT return.
+
+There are not any rules on what a VAT account should look like, but it must show:
+
+your total VAT sales
+
+your total VAT purchases
+
+the VAT you owe HM Revenue and Customs (HMRC)

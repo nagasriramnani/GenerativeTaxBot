@@ -1,0 +1,11 @@
+Add any transferred residence nil rate band that may be available from a late spouse or civil partner’s estate to the amount of the allowance due for an estate, to get a combined residence nil rate band.
+
+Take off the combined residence nil rate band from the value of the estate.
+
+Take off the basic Inheritance Tax threshold and any additional transferred unused basic threshold from the rest of the value of the estate.
+
+Usually, the order you apply the residence nil rate band and basic Inheritance Tax threshold will make no difference. However, in some cases it will affect the amount of any unused additional or basic Inheritance Tax threshold available to transfer to a spouse or civil partner’s estate.
+
+Example
+
+A man dies in the tax year 2020 to 2021 and leaves to his children:

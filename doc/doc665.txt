@@ -1,0 +1,15 @@
+How we work out your  ‘payments on account’
+
+We’ll work out your payments based on your annual VAT liability in the period that you go over the threshold.
+
+We’ll divide your annual VAT liability in that period by 24 to arrive at an instalment amount.
+
+If you’ve been in business for less than 12 months, we’ll work out the payments as a proportion.
+
+We do not include the VAT on imports and moving goods into and out of excise warehouses.
+
+We may change the amount of your payments if your total VAT liability goes up or down by 20% or more.
+
+Businesses registered in divisions
+
+If you’ve registered your business in the names of its divisions, we’ll look at each division as a separate business for payments on account. We’ll use the VAT liability of each division to decide:

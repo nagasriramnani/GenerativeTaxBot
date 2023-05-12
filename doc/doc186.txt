@@ -1,0 +1,13 @@
+Paper tax returns
+
+For the main Self Assessment tax return, call HMRC and request form SA100. You can download all other forms and supplementary pages.
+
+You then need to send HMRC the corrected pages. Write ‘amendment’ on each page, and include your name and Unique Taxpayer Reference (UTR) - this is on previous tax returns or letters from HMRC.
+
+Check your Self Assessment paperwork for the address. If you cannot find this, send your corrections to the address for general Self Assessment enquiries.
+
+If you used commercial software
+
+Contact the software provider for help correcting your tax return. Contact HMRC if your software is not able to make corrections.
+
+Write to HMRC

@@ -1,0 +1,13 @@
+If the property was sold at less than the market value, relief is limited by the proportion that was given as a gift.
+
+Example
+
+John sells a field on his farm worth £2,000 to his son David on the next-door farm for £500. This means that he is giving David a gift of 75% of the value of the field = £1,500.
+
+David sells the field a year later and uses the £2,000 from the sale to buy another field for £2,000.
+
+John dies 3 years after the sale.
+
+When IHT is calculated the original market value (£2,000) of the field, less the £500 paid (the value that was transferred), rather than the current market value of the field (£2,500) is included as a gift made by John and is eligible for Agricultural Relief.
+
+Business relief

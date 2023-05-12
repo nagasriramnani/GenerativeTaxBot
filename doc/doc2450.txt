@@ -1,0 +1,13 @@
+If the payments are going to be made regularly you can issue a VAT invoice at the beginning of any period of up to a year for all the payments due in that period, as long as there’s more than 1 payment due. For each payment you should set out on the invoice the:
+
+amount of the payment excluding VAT
+
+date the payment’s due
+
+rate of VAT
+
+amount of VAT payable
+
+If you decide to issue an invoice at the start of a period, you do not have to account for VAT on any payment until either the date the payment’s due or the date you receive it, whichever happens first.
+
+The same procedures apply to continuous supplies of goods, in the form of water, gas and electricity.

@@ -1,0 +1,27 @@
+VAT retail schemes
+
+Skip to contents of guide
+
+Contents
+
+How VAT retail schemes work
+
+Point of Sale Scheme
+
+Apportionment Scheme
+
+Direct Calculation Scheme
+
+How VAT retail schemes work
+
+If you sell goods you must calculate how much VAT to record in your VAT account.
+
+For goods sold inclusive of VAT, you must deduct the VAT you have to record. For goods sold exclusive of VAT, you must add it.
+
+VAT retail schemes can make calculating your VAT simpler. Instead of calculating the VAT for each sale you make, you do it once with each VAT return.
+
+There are 3 standard VAT retail schemes:
+
+Point of Sale Scheme - you identify and record the VAT at the time of sale
+
+Apportionment Scheme - you buy goods for resale

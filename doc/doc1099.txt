@@ -1,0 +1,19 @@
+What to report to HMRC
+
+Report directors’ pay and deductions in your Full Payment Submission (FPS).
+
+Put one of the following into the ‘Director’s NIC calculation method’ field on your FPS:
+
+‘AN’ if you’re using the ‘standard annual earnings period method’
+
+‘AL’ for the ‘alternative method’
+
+Fill in the ‘Week of director’s appointment’ field.
+
+When to pay
+
+Contributions are calculated on annual earnings but they’re still paid to HMRC after you run your usual payroll (for example, weekly, monthly or quarterly).
+
+Category letter changes
+
+The director might be due a National Insurance refund if their category letter changes (for example, because they reach State Pension age).

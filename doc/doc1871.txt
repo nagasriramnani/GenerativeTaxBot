@@ -1,0 +1,25 @@
+Manage permissions for tax software
+
+You may be using software to interact with HM Revenue and Customs (HMRC), for example to send your Self Assessment tax return.
+
+You can use this service to:
+
+check which software you’ve given permission to
+
+remove permission from any software, for example permission to file your return
+
+Start now
+
+Before you start
+
+To sign in for the first time, you’ll need:
+
+a Government Gateway user ID and password - if you do not have a user ID you can create one when you use the service
+
+a permanent National Insurance number
+
+Explore the topic
+
+Dealing with HMRC
+
+Self Assessment

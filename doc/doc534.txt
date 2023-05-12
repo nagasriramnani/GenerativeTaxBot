@@ -1,0 +1,43 @@
+residence nil rate band for the estate
+
+£175,000 (the lower of £200,000 and £175,000)
+
+basic Inheritance Tax threshold
+
+£325,000
+
+Set the basic Inheritance Tax threshold of £325,000 against the value of the lifetime gifts of £100,000:
+
+taxable lifetime gifts add up to
+
+£100,000
+
+less basic Inheritance Tax threshold
+
+£100,000
+
+amount that Inheritance Tax is due on
+
+£0
+
+This leaves £225,000 of the basic Inheritance Tax threshold to use against the estate.
+
+estate value
+
+£450,000
+
+less residence nil rate band
+
+£175,000
+
+remaining value
+
+£275,000
+
+less remaining basic Inheritance Tax threshold
+
+£225,000
+
+amount that Inheritance Tax is due on
+
+£50,000
