@@ -134,17 +134,6 @@ create_faiss.py (builds index from scraped data)
      ↓
 webscrape.py (HTML scraping using BeautifulSoup)
 ```
-
----
-
-## 📸 Screenshots
-
-> Replace with your own real screenshots
-
-**Telegram Chat Example:**
-
-![Chat Demo](https://media.giphy.com/media/3o6ZsYe5lCJv3z1fU0/giphy.gif)
-
 ---
 
 ## 👨‍💻 Author
